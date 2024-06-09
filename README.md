@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-# About me:
+### About me:
 
 I am a student at ND
